@@ -44,3 +44,14 @@
 </div>
 
 ###
+
+## 📊 Estatísticas
+
+<div align="center">
+  
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminOdaLima&layout=compact&theme=tokyonight)
+
+</div>
+
+
